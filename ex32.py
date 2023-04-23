@@ -1,3 +1,4 @@
+if __name__ == '__main__':
 salario = float(input("Digite seu salario: "))
 
 if salario >= 0 and salario <= 2000:
