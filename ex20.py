@@ -9,4 +9,4 @@ valor_peca2 = float(input("Digite o valor da peça 2: "))
 
 total = (peca1 * valor_peca1) + (peca2 * valor_peca2)
 
-print("O valor total a ser pago é R$ {}".format(total))
+print("VALOR A PAGAR R$ {}".format(total))
